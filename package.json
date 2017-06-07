@@ -6,10 +6,8 @@
     "type" : "git",
     "url" : "https://github.com/Daviot/gobha-meta.git"
   },
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "lib/index.js",
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
