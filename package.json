@@ -1,6 +1,6 @@
 {
   "name": "gobha-meta",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Add dynamic values to the metadata object of metalsmith",
   "repository": {
     "type": "git",
